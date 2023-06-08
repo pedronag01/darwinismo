@@ -180,11 +180,12 @@ footer a:hover{
 }
 nav > a{
     color: rgba(255, 255, 0, 0.971);
-    padding: 10px;
+    padding: 5px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
     transition-duration: .5s;
+    text-align: justify;
 }
 nav > a:hover{
     background-color: var(--cor2);
