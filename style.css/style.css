@@ -10,7 +10,7 @@
     --cor1: #c756ae;
     --cor2: #831a63;
     --cor3: #3e132f;
-    --cor4: #821b78;
+    --cor4: #850578;
     --cor5: #3b063d;
 
     --fonte-padrão: arial, helvetica, sans-serif;
@@ -128,7 +128,7 @@ main h2{
     color: var(--cor4);
     font-size: 1em;
     line-height: 2em;
-    background-image: linear-gradient(to right, var(--cor1), transparent);
+    background-image: linear-gradient(to left, var(--cor1), transparent);
     text-indent: 8px;
 }
 main p{
