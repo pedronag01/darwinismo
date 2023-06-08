@@ -62,9 +62,9 @@ header > p {
 
 nav{
     background-color: var(--cor5);
-    padding: 10px;
+    padding: 15px;
     box-shadow: 0px 7px 7px black;
-    text-align: end;
+    text-align: center;
     
 }
 
@@ -86,7 +86,7 @@ main a{
     text-decoration: none;
     font-weight: bold;
     color: var(--cor5);
-    padding: 2px 6px;
+    
 }
 main a:hover{
     text-decoration: underline;
@@ -180,11 +180,11 @@ footer a:hover{
 }
 nav > a{
     color: rgba(255, 255, 0, 0.971);
-    padding: 5px;
+    padding: 20px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
-    transition-duration: 4.5s;
+    transition-duration: .5s;
     
 }
 nav > a:hover{
