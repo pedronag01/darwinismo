@@ -10,7 +10,7 @@
     --cor1: #c756ae;
     --cor2: #6f1f57;
     --cor3: #3e132f;
-    --cor4: #9c068d;
+    --cor4: #500d4a;
     --cor5: #650f68;
 
     --fonte-padrão: arial, helvetica, sans-serif;
@@ -130,6 +130,7 @@ main h2{
     line-height: 2em;
     background-image: linear-gradient(to left, var(--cor1), transparent);
     text-indent: 8px;
+    box-shadow:5px 5px rgba(245, 18, 192, 0.171);
 }
 main p{
     text-align: justify;
