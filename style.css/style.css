@@ -98,7 +98,7 @@ main img{
 }
 
 main img.pequena{
-    max-width: 550px;
+    max-width: 450px;
     margin: auto;
     display: block;
 }
