@@ -180,11 +180,11 @@ footer a:hover{
 }
 nav > a{
     color: rgba(255, 255, 0, 0.971);
-    padding: 20px;
+    padding: 5px;
     text-decoration: none;
     font-weight: bold;
     border-radius: 5px;
-    transition-duration: .5s;
+    transition-duration: 4.5s;
     
 }
 nav > a:hover{
