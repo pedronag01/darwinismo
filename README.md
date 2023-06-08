@@ -1,3 +1,3 @@
 # darwinismo
  Idéias propostas por Charles Darwin
- ## https://shre.ink/DanielyRocha
+ ## https://pedronag01.github.io/darwinismo/
