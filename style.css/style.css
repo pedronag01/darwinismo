@@ -8,10 +8,10 @@
 :root {
     --cor0: #ebc5e5;
     --cor1: #c756ae;
-    --cor2: #831a63;
+    --cor2: #6f1f57;
     --cor3: #3e132f;
-    --cor4: #850578;
-    --cor5: #3b063d;
+    --cor4: #9c068d;
+    --cor5: #650f68;
 
     --fonte-padrão: arial, helvetica, sans-serif;
     --fonte-destaque: 'Bebas Neue', cursive;
@@ -33,7 +33,7 @@ a.externo::after{
     content: '\00a0\1F517';
 }
 header{
-    background-color: rgb(214, 108, 209);
+    background-color: rgb(155, 70, 150);
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
