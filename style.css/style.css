@@ -62,8 +62,8 @@ header > p {
 }
 
 nav{
-    background-color: rgb(117, 23, 122);
-    padding: 15px;
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
     box-shadow: 0px 7px 7px black;
     text-align: center;
     border-radius: 1%;
