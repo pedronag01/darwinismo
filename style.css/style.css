@@ -33,10 +33,11 @@ a.externo::after{
     content: '\00a0\1F517';
 }
 header{
-    background-color: rgb(155, 70, 150);
+    background-color: rgb(3, 3, 3);
     min-height: 150px;
     text-align: center;
     padding-top: 40px;
+    
 }
 
 
@@ -65,6 +66,7 @@ nav{
     padding: 15px;
     box-shadow: 0px 7px 7px black;
     text-align: center;
+    border-radius: 1%;
     
 }
 
